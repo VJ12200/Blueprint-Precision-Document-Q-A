@@ -65,8 +65,11 @@ pip install -r requirements.txt
 ```
 
 Enter your API Key in .env:
-
+```
 OPENRouter_API_KEY = {Your API key}
+```
+
+Add you documents to the data folder
 
 ## Building: Run the following commands.
 1. `python embedding.py` # Generates chunks and embeddings
@@ -90,10 +93,7 @@ OPENRouter_API_KEY = {Your API key}
 ├── readme.md              # This documentation
 ├── result.json            # Example evaluation output
 ├── data/
-│   ├── chunks.json        # Processed document chunks
-│   ├── embeddings.npy     # Embedding vectors
-│   ├── faiss.index        # FAISS search index
-│   ├── doc1.pdf           # Replace With your documents
+│   ├── Example.txt        # Empty .txt file , replace with your documents
 
 ```
 
