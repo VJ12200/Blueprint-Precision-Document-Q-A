@@ -1,0 +1,10 @@
+requests
+openai 
+python-dotenv 
+faiss-cpu 
+numpy 
+tiktoken
+streamlit
+pymupdf
+python-docx
+openpyxl

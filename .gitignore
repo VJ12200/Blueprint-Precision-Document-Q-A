@@ -1,0 +1,8 @@
+data/chunks.json
+data/embeddings.npy
+data/faiss.index
+result.json
+__pycache__/
+.idea/
+.venv/
+
