@@ -5,14 +5,14 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-306998?style=for-the-badge&logo=python&logoColor=white)
-![python-docx](https://img.shields.io/badge/python--docx-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?syle=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM%20Gateway-6366F1?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-0467DF?style=flat-square&logo=meta&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Compute-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF%20Parser-306998?style=flat-square&logo=python&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-Word%20Processing-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-Excel%20Processing-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
