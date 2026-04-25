@@ -5,6 +5,30 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-306998?style=for-the-badge&logo=python&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## Table of Contents
+
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Supported Document Types](#supported-document-types)
+- [Evaluation & Grounding](#evaluation--grounding)
+- [Getting Started](#getting-started)
+- [Preview](#preview)
+- [File Structure](#file-structure)
+- [Features](#features)
+
+---
+
 ## Tech Stack
 
 - **LLM & Embeddings:** [OpenRouter API](https://openrouter.ai/)
@@ -40,8 +64,6 @@ Blueprint supports ingestion across five file formats. Simply drop any supported
 | **Plain Text** | `.txt` | Built-in | Plain text files |
 | **Excel Spreadsheet** | `.xlsx` | `openpyxl` | Extracts cell data row-by-row across all sheets |
 
-
-
 ---
 
 ## Evaluation & Grounding
@@ -69,7 +91,7 @@ Enter your API Key in .env:
 OPENRouter_API_KEY = {Your API key}
 ```
 
-Add you documents to the data folder
+Add your documents to the data folder.
 
 ## Building: Run the following commands.
 1. `python embedding.py` # Generates chunks and embeddings
@@ -78,11 +100,16 @@ Add you documents to the data folder
 ## Usage: Running web interface
 `streamlit run app.py`
 
+---
+
 ## Preview
 
 ![Blueprint Interface](Screenshots/ss.png)
 
-## File structure:
+---
+
+## File Structure
+
 ```text
 ├── app.py                 # Streamlit web interface
 ├── embedding.py           # Document processing and embedding
@@ -94,8 +121,9 @@ Add you documents to the data folder
 ├── result.json            # Example evaluation output
 ├── data/
 │   ├── Example.txt        # Empty .txt file , replace with your documents
-
 ```
+
+---
 
 ## Features
 1. **Interface**: The web interface provides an environment for document queries.
