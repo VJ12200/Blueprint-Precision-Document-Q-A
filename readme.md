@@ -6,7 +6,7 @@
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?syle=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM%20Gateway-6366F1?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Compute-013243?style=flat-square&logo=numpy&logoColor=white)
